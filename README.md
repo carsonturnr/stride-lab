@@ -15,6 +15,8 @@ Status: **pre-launch.** This repo currently holds the marketing site and waitlis
 - **Visual report.** Overlay video with the tracked skeleton, key-frame cards, side-by-side comparisons, drift charts.
 - **Coach.** Grounded in the measured numbers; prescribes drills, never diagnoses.
 
+The full spec, metric set with sources, and evals plan are in [docs/MVP.md](docs/MVP.md).
+
 ## Planned stack
 
 React + Vite + Tailwind on Vercel · Supabase · Python GPU workers on Modal · YOLO-class detection with ByteTrack-style tracking · RTMPose · Claude for the coach · Stripe · Langfuse for tracing and evals.
