@@ -2,6 +2,8 @@
 
 **A motion-capture lab in your phone.** Upload running footage from a treadmill, a workout or a race and get a research-backed breakdown of injury risk, efficiency and symmetry, including exactly where your form breaks down when you're tired.
 
+**Live:** [trystridelab.vercel.app](https://trystridelab.vercel.app)
+
 [![CI](https://github.com/carsonturnr/stride-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/carsonturnr/stride-lab/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
